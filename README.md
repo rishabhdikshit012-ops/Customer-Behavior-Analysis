@@ -61,24 +61,14 @@ The dataset contains customer purchase records, including:
 
 ## Dashboard
 
-The interactive Power BI dashboard provides insights into customer purchasing behavior through:
+The interactive Power BI dashboard provides a comprehensive overview of customer purchasing behavior through key performance indicators, category-wise sales analysis, revenue distribution, customer segmentation, and subscription trends.
 
-- **KPIs**
-  - Total Customers
-  - Total Revenue
-  - Average Purchase Amount
-  - Average Review Rating
+### Dashboard Features
 
-- **Interactive Filters**
-  - Gender
-  - Subscription Status
-  - Category
-  - Age Group
-
-- **Visualizations**
-  - Sales by Category
-  - Revenue by Category
-  - Customer Distribution by Subscription Status
+- KPI cards for customer count, total revenue, average purchase amount, and average review rating
+- Category-wise sales and revenue analysis
+- Customer distribution by subscription status
+- Interactive filters for Gender, Category, Subscription Status, and Age Group
 
 ---
 
